@@ -1,0 +1,46 @@
+/*
+ author: luna aphelion
+ contact: luna-aphelion@outlook.com
+ */
+
+ body{
+     background-color: white;
+}
+
+.parent {
+    font-family: Montserrat;
+	display: flex;
+	font-size: 40;
+}
+
+.c1{
+	flex: 1;
+	font-size: 40px;
+}
+
+.c2 {
+	flex: 1;
+	font-size: 40px;
+}
+
+.c3 {
+	padding-right: 10;
+	flex: 1;
+	font-size: 40px;
+}
+
+.c4 {
+	padding-right: 10;
+	flex: 1;
+	font-size: 40px;
+}
+
+a {
+	text-decoration: none;
+	color: #F7C7B2;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url(Montserrat-Light.ttf);
+}
